@@ -1,0 +1,9 @@
+.content{
+    background-color: #DDA0DD;
+    display: flex;
+    justify-content : center;
+    align-items: center;
+    height: 100vh;
+    width: 200vh;
+    margin: 5px;
+}
