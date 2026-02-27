@@ -1,3 +1,4 @@
 com\mycompany\estoqueweb\JakartaRestConfiguration.class
+connection\ConnectionFactory.class
 com\mycompany\estoqueweb\resources\JakartaEE11Resource.class
 login\Login.class
